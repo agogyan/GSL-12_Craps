@@ -1,4 +1,4 @@
-## GSL-12, TUMO Labs project Craps!
+## GSL-12, TUMO Labs project Craps by Anahit!
 ## Rules:
 ## The player should roll two dice. If the sum of both of them is 7 or 11 the 
 ## player wins. If the sum is 2, 3 or 12 (craps) the casino wins. If during 
